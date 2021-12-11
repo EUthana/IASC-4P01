@@ -24,7 +24,7 @@ Much of the knowledge and experience we gain comes from our families, schools an
 
 ## Conclusions
 
-
+I think the most surprising aspect of the semester for me was the study of decolonizing museums. In the past, I had always thought of museums as rational and objective narratives of history, but as the course progressed, I realized that it was not what I had expected: the history of museums became intertwined with colonial ideas early on. I had one of the most impressive learning experiences of the course. It was about my visit to the British Museum online, where I discovered that the museum displayed artifacts looted from my country. The beauty of this artifact was praised under the messages of visitors, and all visitors were thanking the museum for allowing them to see such an exhibit. This is not a comfortable learning experience, the history of being colonized is a nation's or a country's shame and pain, a historical trauma that none of us want to talk about; and for the victorious nations, they see the looted spoils as a symbol of power, showing off their past triumphs in the form of exhibitions. I have had my share of anger and incomprehension in this study, knowing where these objects came from, that they were looted through acts of violence against my ancestors and their ancestors of color, and the exhibit seems to express celebration and glory. For me, this approach of the museum is a daunting threat. As a result, I no longer blindly received the message that the museum was exporting or conveying, but approached the artifacts and the museum's motives with critical thought. What struck me most was that only after experiencing it firsthand can I understand what this unspeakable pain is and work to change it.
 
 
 
