@@ -1,4 +1,44 @@
-## Welcome to GitHub Pages
+# Welcome to My Final Reflection
+
+
+
+## Introduction:
+
+In my first reflection, I mentioned that museums are the most engaging large textbooks for school-aged children and that they are worthwhile for children to learn about. However, after this semester's study, I realized that this statement needs to be critically re-analyzed. Since children need to receive information from the outside world to learn and build early cognitive concepts, it is difficult for them to think deeply on their own and they need to be properly guided and educated at this important time.
+However, the museum itself is a place full of cultural collisions, with a large collection of controversial art and artifacts. For young children, they are unable to distinguish or understand the controversial issues behind these artifacts and can only accept what the museum wants them to understand unilaterally. For example, if an artifact is looted from an indigenous people through unjust means and exhibited in a museum, the museum communicates to children how valuable the artifact is, but they do not tell them how the artifact was looted. According to Yanes-Cabrera's research on the connection between popular culture and museum education, most museums cannot be objective in their narratives because the ideas they want to convey are inherently subjective.This leads me to reflect on whether the information and history conveyed by museums is correct, or whether museums expect us to believe that this history is correct. The real problem is if children grow up with the wrong history, and they perceive it to be the right behavior.
+
+In my curatorial practices, the themes I chose are growth and reflection. I have arranged and presented my video game collection in order according to the style I represent at each age group. These games can still be found on the market today, which means that everyone can experience them and have their own different gaming experiences and perspectives. In this, I refer to the way I visit museums. I personally like museums with interactive experiences, because I think that it is only through experiencing them that one can truly understand the fascination of the culture or knowledge. After the audience experiences these different kinds of games in order, they will have a new understanding or change, let's say, "So girls can play such hardcore and brain-burning games." Thus, the perception of "video games belong to boys" will be changed to different degrees, and through this series of activities, the purpose of 'breaking gender stereotypes' that I want to convey will be achieved. On the one hand, for many viewers who have never had this experience or environment (let's say, male viewers) they rarely get to experience what women really think under the traditional social view, and this experience is a way for them to understand; on the other hand, this experience is an inspiration for women who also suffer from stereotypes, and they will get a sense of recognition that they are not wrong to have different ideas. It is not wrong or shameful.
+
+## Object and Highlight Key:
+
+
+
+## Differences:
+
+
+
+
+## Conclusions
+
+
+
+
+
+
+
+### Refernece:
+
+Yanes-Cabrera, Cristina. “The Museum as a Representation Space of Popular Culture and Educational Memory.” History of Education & Children’s Literature, vol. 6, no. 2, EDIZIONI UNIVERSITA MACERATA, 2011, p. 19.
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/EUthana/IASC-4P01/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
