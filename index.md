@@ -13,6 +13,7 @@ Perhaps in the past, we seldom had such doubts; we passively received informatio
 
 ## Object and Highlight Key:
 
+![](img/1.png) 
 
 
 ## Differences:
