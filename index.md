@@ -19,7 +19,7 @@ Perhaps in the past, we seldom had such doubts; we passively received informatio
 
 In both compare and contrast curatorial practices, I think the most challenging thing is to examine the commonalities between the two. On the surface of the objects alone, there are few connections between the objects I have chosen, but if I dig deeper into the meaning behind them, I can find many interconnected relationships. These objects are relevant to the lives of their owners, and are also entertaining and educational. For example, crafting itself is an educational activity, gaining cultural capital through learning and creating by hand; children's toys and collectibles not only provide entertainment, but also convey a critical perspective through their turnover and change; game varieties change with the owner's tastes, reflecting the different perspectives and reflections corresponding to each age group. The common starting point is "curiosity": curiosity leads to connection, curiosity leads to purchase, curiosity leads to learning. What is also interesting to me is that these objects are fascinating because they reflect not only the owner's tastes and interests, but also the owner's perception of material culture and cultural capital. We assume that if a child brings a popular toy, they will be welcomed, and conversely, they will be out of step with their peers. As we grow and become more educated, we also stop to consider how these objects affect our behavior and relationships with others. Likewise, when faced with the choice of course materials, we need to stop and think and reflect from time to time on what effect these materials can have and whether they meet our expectations. As the course progresses, we can also identify gaps as we gain new knowledge and then look at our past perspectives.
 
-
+Much of the knowledge and experience we gain comes from our families, schools and society. We have many different attitudes and perceptions of the same events or things from different cultures. (Yanes-Cabrera, 2011) For example, the two curatorial practices I have chosen both contain electronic pets as an object, but their attitudes and research directions towards electronic pets are completely different. Some argue that electronic pets have a wide audience, not limited to one province or city, and that their popularity is international, which is not only a change in form but also a cultural impact; others argue that the pop culture effect brought by electronic pets has subconsciously influenced the behavior and thinking of users; others suggest that this is a new type of toy between mechanical replica toys and personal handmade toys. Some suggest that this is a new type of distinction between mechanical replica toys and personal handmade toys. The same thing can be extended to a variety of different perspectives through different angles. There is no absolute objectivity in this society, and learning about the differences between people's ideas, learning and considering multiple perspectives is exactly what our curriculum needs. This is why it is necessary to have a critical mind to question what others think is 'objective'.
 
 
 ## Conclusions
@@ -38,44 +38,3 @@ Yanes-Cabrera, Cristina. “The Museum as a Representation Space of Popular Cult
 
 
 
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/EUthana/IASC-4P01/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EUthana/IASC-4P01/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
